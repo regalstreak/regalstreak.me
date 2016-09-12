@@ -39,16 +39,26 @@ footer:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: https://twitter.com/regalstreak
-  - title: facebook
-    url: https://www.facebook.com/regalstreak
+  - title: shopping-basket
+    url: https://basketbuild.com/devs/regalstreak
+  - title: mobile
+    url: http://forum.xda-developers.com/member.php?u=5325978
   - title: github
     url: https://github.com/regalstreak
   - title: gitlab
     url: https://gitlab.com/regalstreak
-  - title: xda
-    url: http://forum.xda-developers.com/member.php?u=5325978
+  - title: android
+    url: https://www.androidfilehost.com/?w=profile&uid=23501681358561822
+  - title: youtube
+    url: https://www.youtube.com/user/TheRegalstreak
+  - title: twitter
+    url: https://twitter.com/regalstreak
+  - title: facebook
+    url: https://www.facebook.com/regalstreak
+  - title: google-plus
+    url: https://plus.google.com/u/0/116835007029095043966
+  - title: instagram
+    url: https://www.instagram.com/regalstreak_/
 
 # Postal address (add as many lines as necessary)
 address:
