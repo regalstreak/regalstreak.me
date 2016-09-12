@@ -7,6 +7,6 @@ alt: image-alt
 project-date: September 2016
 client: Start Bootstrap
 category: Web Development
-description: Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
+description: "<b>Gamrite</b> is a game server hosting firm that I had started back in 2016 Q1. We host game servers of games like <a HREF=https://en.wikipedia.org/wiki/Counter-Strike_(video_game)>Counter-Strike 1.6</a>, <a HREF=https://en.wikipedia.org/wiki/Counter-Strike:_Global_Offensive>Counter-Strike&#58; Global Offensive</a>, <a href=https://en.wikipedia.org/wiki/Dota_2>Dota 2</a>, and many others. Hosting rates start from 20₹ or 0.3$ per slot for Counter-Strike 1.6 servers. This is, by far, one of the cheapest game server hosting in India. I do not get enough time to work on it due to my studies, though it is still functioning minimally."
 
 ---
