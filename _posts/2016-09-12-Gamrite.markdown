@@ -4,7 +4,6 @@ modal-id: 3
 date: 2016-09-12
 img: circus.png
 alt: image-alt
-title: Gamrite
 description: "<b>Gamrite</b> is a game server hosting firm that I had started back in 2016 Q1. We host game servers of games like <a HREF=https://en.wikipedia.org/wiki/Counter-Strike_(video_game)>Counter-Strike 1.6</a>, <a HREF=https://en.wikipedia.org/wiki/Counter-Strike:_Global_Offensive>Counter-Strike&#58; Global Offensive</a>, <a href=https://en.wikipedia.org/wiki/Dota_2>Dota 2</a>, and many others. Hosting rates start from 20₹ or 0.3$ per slot for Counter-Strike 1.6 servers. This is, by far, one of the cheapest game server hosting in India. I do not get enough time to work on it due to my studies, though it is still functioning minimally."
 onedown: <strong><a class="btn btn-primary btn-outline-dark" href="https://github.com/Gamrite/"><i class="fa fa-github"></i>   Github</a></strong>
 twodown: <strong><a class="btn btn-primary btn-outline-dark" href="https://gamrite.com/"><i class="fa fa-globe"></i>   Website</a></strong>
