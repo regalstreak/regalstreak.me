@@ -33,7 +33,7 @@ color:
 # Footer settings
 footer:
   copyright: Neil Agarwal
-  location: Location
+  #location: Location
   social: Around the Web
   #credits: More Stuff
 
@@ -71,9 +71,9 @@ social:
     url: https://www.instagram.com/regalstreak_/
 
 # Postal address (add as many lines as necessary)
-address:
-  - line: Mumbai 400709
-  - line: Maharashtra, India
+#address:
+#  - line: Mumbai 400709
+#  - line: Maharashtra, India
 
 # Credits content
 #credits: 'Look into _includes/footer.html. This has been disabled.'
