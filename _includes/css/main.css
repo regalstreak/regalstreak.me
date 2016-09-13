@@ -271,9 +271,9 @@ section.success {
 
 .btn-outline-dark {
     margin-top: 15px;
-    border: solid 2px #2C3E50;
+    border: solid 2px #{{ site.color.secondary }};
     font-size: 20px;
-    color: #2C3E50;
+    color: #{{ site.color.secondary }};
     background: 0 0;
     transition: all .3s ease-in-out;
 }
@@ -282,9 +282,9 @@ section.success {
 .btn-outline-dark:focus,
 .btn-outline-dark:active,
 .btn-outline-dark.active {
-    border: solid 2px #2C3E50;
+    border: solid 2px #{{ site.color.secondary }};
     color: #{{ site.color.primary }};
-    background: #2C3E50;
+    background: #{{ site.color.secondary }};
 }
 
 .floating-label-form-group {
