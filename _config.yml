@@ -42,30 +42,30 @@ social:
   - name: BasketBuild
     title: shopping-basket
     url: https://basketbuild.com/devs/regalstreak
+  - name: YouTube
+    title: youtube
+    url: https://www.youtube.com/user/TheRegalstreak
+  - name: Google+
+    title: google-plus
+    url: https://plus.google.com/u/0/116835007029095043966
   - name: XDA
     title: mobile
     url: http://forum.xda-developers.com/member.php?u=5325978
   - name: GitHub
     title: github
     url: https://github.com/regalstreak
+  - name: Facebook
+    title: facebook
+    url: https://www.facebook.com/regalstreak
+  - name: Twitter
+    title: twitter
+    url: https://twitter.com/regalstreak
   - name: Gitlab
     title: gitlab
     url: https://gitlab.com/regalstreak
   - name: AndroidFileHost
     title: android
     url: https://www.androidfilehost.com/?w=profile&uid=23501681358561822
-  - name: YouTube
-    title: youtube
-    url: https://www.youtube.com/user/TheRegalstreak
-  - name: Twitter
-    title: twitter
-    url: https://twitter.com/regalstreak
-  - name: Facebook
-    title: facebook
-    url: https://www.facebook.com/regalstreak
-  - name: Google+
-    title: google-plus
-    url: https://plus.google.com/u/0/116835007029095043966
   - name: Instagram
     title: instagram
     url: https://www.instagram.com/regalstreak_/
